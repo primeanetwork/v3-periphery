@@ -1,12 +1,12 @@
 {
-  "name": "@uniswap/v3-periphery",
-  "description": "🎚 Peripheral smart contracts for interacting with Uniswap V3",
+  "name": "@primeanetwork/v3-periphery",
+  "description": "🪙 Peripheral contracts for PrimeaSwap, enabling routed swaps and asset entry/exit, adapted from Uniswap v3.",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.4.4",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://primeanetwork.com",
   "keywords": [
     "uniswap",
     "periphery",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-periphery"
+    "url": "https://github.com/primeanetwork/v3-periphery"
   },
   "files": [
     "contracts/base",
