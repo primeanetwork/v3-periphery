@@ -1,12 +1,12 @@
 {
   "name": "@uniswap/v3-periphery",
-  "description": "🎚 Peripheral smart contracts for interacting with Uniswap V3",
+  "description": "Primea fork — independent fork of upstream Uniswap repo",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.4.4",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://github.com/primeanetwork/v3-periphery#readme",
   "keywords": [
     "uniswap",
     "periphery",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-periphery"
+    "url": "git+ssh://git@github.com/primeanetwork/v3-periphery.git"
   },
   "files": [
     "contracts/base",
@@ -64,5 +64,8 @@
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test"
+  },
+  "bugs": {
+    "url": "https://github.com/primeanetwork/v3-periphery/issues"
   }
 }
