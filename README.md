@@ -1,3 +1,5 @@
+> **Independent fork** — not affiliated with Uniswap. See NOTICE.md.
+
 # Uniswap V3 Periphery
 
 [![Tests](https://github.com/Uniswap/uniswap-v3-periphery/workflows/Tests/badge.svg)](https://github.com/Uniswap/uniswap-v3-periphery/actions?query=workflow%3ATests)
